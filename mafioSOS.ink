@@ -1,6 +1,6 @@
 I was in the Mafia, what about you?
 
-VAR loser = 0
+VAR loser = 1
 
 *"fuck off"
     that's rude. you're a loser.
