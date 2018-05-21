@@ -1,10 +1,10 @@
 I was in the Mafia, what about you?
 
-VAR loser = 1
+VAR cool_dude = 1
 
 *"fuck off"
     that's rude. you're a loser.
-    ~ loser = 1
+    ~ cool_dude = 1
     -> kill_the_loser
 *Nope, mafia is for losers.
     wow
