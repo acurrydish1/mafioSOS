@@ -1,7 +1,8 @@
 I was in the Mafia, what about you?
 
 VAR loser = 1
-
+*"In a previous life, yes"
+    lol sure
 *"fuck off"
     that's rude. you're a loser.
     ~ loser = 1
